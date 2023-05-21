@@ -35,7 +35,7 @@ var typewriter = new Typewriter(tw.value, {
       </h1>
 
       <div class="px-5 grid lg:grid-cols-2 h-full gap-4">
-        <div class="pt-10 md:pt-30">
+        <div class="pt-25">
           <div class="w-full xl:w-120 mx-auto coding inverse-toggle px-5 pt-4 shadow-lg text-gray-100 text-sm font-mono subpixel-antialiased bg-gray-800  pb-6 pt-4 rounded-lg leading-normal overflow-hidden">
             <div class="top mb-2 flex">
               <div class="h-3 w-3 bg-red-500 rounded-full"></div>
